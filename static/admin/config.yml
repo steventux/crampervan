@@ -1,5 +1,5 @@
 backend:
-  name: test-repo
+  name: steventux/crampervan
 
 media_folder: static/assets
 public_folder: assets
