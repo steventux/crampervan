@@ -4,7 +4,7 @@ module.exports = {
     title: `Crampervan - a DIY van conversion`,
     author: `Steve Laing`,
     description: `From a stinky welder's van to a luxury motorhome.`,
-    siteUrl: `https://gatsby-starter-blog-demo.netlify.com/`,
+    siteUrl: `https://crampervan.netlify.com/`,
     social: {
       twitter: `kylemathews`,
     },
