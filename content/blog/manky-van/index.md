@@ -19,7 +19,9 @@ The Peugeot and Citroen vans come with PSA HDi engines, less performant than the
 
 This still meant a hefty price tag as anything EURO 6 is sought after and anything EURO 5 is cheaper but a false economy in London given the LEZ charges. Also pollution, think of the little children, their poor sooty faces.
 
-I settled on a CAT S salvage, 66 plate Citroen Relay 2.0HDi from [Thames Street Auto Salvage](https://tsasalvage.co.uk/), no V5, no MOT, ran well, a few dents, hence the CAT S. The van cost me a lot less than a similar age and mileage van would have done from Autotrader and the likes. It was a risk but I was hoping I knew enough to spot a dud. TSA were really straightforward to deal with, I'd never bought a salvage motor before and was nervous about how much money I was spending, they were really honest about what was for sale and we did a good deal.
+I settled on a CAT S salvage, 66 plate Citroen Relay 2.0HDi from [Thames Street Auto Salvage](https://tsasalvage.co.uk/), no V5, no MOT, bad paint and a few dents, hence the CAT S. The van cost me a lot less than a similar age and mileage van would have done from Autotrader and the likes. It was a risk but I was hoping I knew enough to spot a dud and the van ran well on the test drive. TSA were really straightforward to deal with, I'd never bought a salvage motor before and was nervous about how much money I was spending, they were really honest about what was for sale and we did a good deal.
+
+![Gumtree listing](salvage-van-orig.jpg)
 
 The van had been a works motor for a Scottish Railways welding contractor, there was a ton of metal swarf in the back, lots of empty bags of weed, king-size papers, a weed grinder and so many boiled sweets fused to the floor. It was like the set of a Weegie Cheech and Chong film.
 
