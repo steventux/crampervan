@@ -1,5 +1,6 @@
 backend:
-  name: steventux/crampervan
+  name: github
+  repo: steventux/crampervan
 
 media_folder: static/assets
 public_folder: assets
