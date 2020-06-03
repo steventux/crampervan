@@ -14,8 +14,8 @@ way beyond what I could afford.
 The go-to van for conversions is the Fiat Ducato, it's lightweight for its size, smaller folk like me can sleep across-ways in the back and it's pretty economical.
 Newer models come with EURO 6 compliant diesel engines and they are pretty reliable, for these reasons the prices are pretty high.
 
-The poorer cousin of the Ducato is the Peugeot Boxer and the identical yet even less desireable Citoen Relay (known as the 'Jumper' outside UK).
-The Peugeot and Citroen vans come with PSA HDi engines, less performant than the Fiat machinery but still pretty well-proven lumps and they are EURO 6 compliant from mid 2016.
+The poorer cousin of the Fiat Ducato is the Peugeot Boxer and the identical yet even less desireable Citroen Relay (known as the 'Jumper' outside UK).
+The Peugeot and Citroen vans come with the [PSA HDi DW10 engine](https://en.wikipedia.org/wiki/PSA_EW/DW_engine#DW10), pretty well-proven lumps and they are EURO 6 compliant from mid 2016 with the addition of the Selective Catalytic Reductions technology more commonly known as AdBlu.
 
 This still meant a hefty price tag as anything EURO 6 is sought after and anything EURO 5 is cheaper but a false economy in London given the LEZ charges. Also pollution, think of the little children, their poor sooty faces.
 
