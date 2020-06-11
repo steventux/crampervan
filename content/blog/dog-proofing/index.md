@@ -21,8 +21,17 @@ Next up was storage above the space where the bed will be, at some point I'll be
 
 ![Overbed storage](overbed-storage.jpg)
 
-The challenges in doing this are finding a level. The van walls are not vertical, the van is not parked on a perfectly flat piece of tarmac. One thing I've learned in this build is not to try and achieve perfection, structural integrity is the goal. I want a van we can go on holiday in, but most of that hopefully won't involve staring at not-quite-plumb-woodwork.
+Getting the finish right for the cupboard doors felt like a woodworking task above my pay-grade. I still had a van awash with bits of 12mm ply so I thought I'd make some prototype doors from some of this and see how hard it was.
+I found some really great sprung self-supporting overhead storage hinges on eBay, they can take the weight of the cupboard door and have a stay-closed cantilever to them so I probably won't need to fit catches. We'll see if that theory holds up once the cupboards are full and I turn a corner quickly.
 
-#### To be continued...
+![Top hinge](hinge.jpg)
 
-I'll add more to this post once I've figured out how to attach the cupboard doors.
+
+Getting the cupboard doors lined up and the hinges clearing the woodwork just right was a bit of trial and error. I can't really claim to have found a method of doing this yet. It was a bit of guesswork and moving things about slightly until I had two doors looking similar. They still need a sand and a varnish but for a first attempt I'm happy, I've achieved the level of utility I need, I can probably make the doors look better with an edge band and a handle.
+
+![Doors and hinges](doors-and-hinges.jpg)
+
+![Doors closed](doors-closed.jpg)
+
+The challenges in doing this are finding a level. The van walls are not vertical, the van is not parked on a perfectly flat piece of tarmac. One thing I've learned in this build is not to try and achieve perfection, structural integrity is the goal. I want a van we can go on holiday in, hopefully the holiday won't involve obsessing about not-quite-plumb-or-level-woodwork.
+
