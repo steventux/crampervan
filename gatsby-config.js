@@ -3,7 +3,7 @@ module.exports = {
     // edit below
     title: `Crampervan - a DIY van conversion`,
     author: `Steve Laing`,
-    description: `From a stinky welder's van to a smelly motorhome.`,
+    description: `Crampervan - A DIY van conversion from a stinky welder's van to a smelly motorhome.`,
     siteUrl: `https://crampervan.netlify.com/`,
     social: {
       twitter: `kylemathews`,
