@@ -12,7 +12,7 @@ I'd lined the back of a Mercedes Vito a couple of years back and I knew this was
 
 The first part of the van to get lined was the rear, I had most of the work in the bedroom area finished, but before I put the new mattress in, I had to line the walls and ceiling.
 
-I measured up the 'easiest' wall and cut an oversized piece of carpet, 20m&sup2; is quite unwieldy so I did this in the house, away from dogs and their every shedding hair.
+I measured up the 'easiest' wall and cut an oversized piece of carpet, 20m&sup2; is quite unwieldy so I did this in the house.
 
 ![Carpetting first wall](carpet-first-wall.jpg)
 
@@ -28,7 +28,7 @@ The benefits of working with this stuff is it's very forgiving, you can stretch 
 
 ![Lining around window](lining-around-window.jpg)
 
-The finish is professional despite being fitted by a complete numpty. It was a very humid and rainy day when I did the lining so I had to leave the doors shut, this was a mistake. It got very sweaty in the van quite quickly, it was like a glue addict's sauna by the time I'd finished, I'd started the job with a significant hangover and the effects of spray adhesive and dehydration this just made matters worse. Character building stuff, I felt semi-euphoric by the time I'd done.
+The finish is professional despite being fitted by a complete numpty. It was a very humid and rainy day when I did the lining so I had to leave the doors shut, this was a mistake. It got very sweaty in the van quite quickly, it was like a glue addict's sauna by the time I'd finished, I'd started the job with a significant hangover and the effects of spray adhesive and dehydration didn't improve matters.
 
 ![Bedroom lining](bedroom-lining.jpg)
 
