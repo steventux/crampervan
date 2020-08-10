@@ -21,6 +21,7 @@ The most important tools for the job are masking tape and a sharp craft knife wi
 The difficult bits would be neatly trimming around the window and bringing the LED lights 'through' the carpet without visible cutting. I mask
 I started by masking off the adjoining surfaces of any surfaces I'd be lining up to eg. the window frame and cabinets. The spray glue is quite easy to make a mess with so this helped with the overspray and stops the carpet sticking to all the things it shouldn't stick to. You can remove the adhesive easily with meths or alcohol but this saves a lot of cleaning up.
 
+It's also a lot easier to get a clean cut by jamming the carpet under a clean paint scraper or similar and cutting along the edge of this, it holds the carpet in place and gives a clean edge to cut against.
 
 ![Working around the window](carpetting-around-window.jpg)
 
@@ -34,7 +35,7 @@ The finish is professional despite being fitted by a complete numpty. It was a v
 
 The ceiling LEDs were not too bad to work with, it's a shame they couldn't just be unplugged and removed but in the end all I had to do was unscrew them from the ceiling ply, work right up to them with the carpet and adhesive, then cut a minimal cross-slit in the carpet where they would sit. The just pull them through the slit in the carpet and spray glue and carefully position the cut carpet against the ceiling ply. Even if the cross cuts were visible, the light sits on top of them and hides them well.
 
-![Lights working on lined ceiling](lights-on-lined-ceiling.jpg)
+![Ceiling carpet completed](ceiling-carpet.jpg)
 
 There's a ton more lining to do but this unlocks putting the mattress in the van and having a proper bed, I can work forwards now and do the rest of the ceiling. It made sense to do it in sections. I think trying to line the entire ceiling with one piece of carpet would be very hard work.
 
