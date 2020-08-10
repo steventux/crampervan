@@ -23,3 +23,7 @@ Fitting was very simple:
 It took me around 45 mins to do the first seat and once I'd worked out the best way to do it about 30 mins to do the driver's side.
 
 ![Rotated seats](rotated-seats.jpg)
+
+This was a simple and satisfying job to do, the parts were reasonably priced and very good quality. Once I'd done a bit more decorative work around the dining area it was great to see the layout coming together. Time for a celebratory beer.
+
+![Beer in the dining room](beer-in-the-dining-room.jpg)
