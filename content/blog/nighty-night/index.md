@@ -40,9 +40,15 @@ I've also added a few slats where you climb onto the bed, these might be surplus
 
 There are only a couple of jobs left in the bed/boot of the van now:
 
-- Lining the ceiling and walls with stretch carpet
-- Adding a small shelf to 'finish' one of the cabinets as it looks a bit scruffy
-- Wiring in a reading light
+- ~Lining the ceiling and walls with stretch carpet~
+- ~Adding a small shelf to 'finish' one of the cabinets as it looks a bit scruffy~
+- ~Wiring in a reading light~
 - Wiring in a boot light
 
 Then I can throw the new mattress in.
+
+**Update**
+
+The bed passed official inspection.
+
+![Testing the new mattress](testing-new-mattress.jpg)
