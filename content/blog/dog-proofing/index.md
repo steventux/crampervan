@@ -11,6 +11,9 @@ I'm really not cut out for woodworking, it requires a reserve of patience and kn
 Bouyed by the experiment in building the crapper cubicle, I was now sold on joining things together with aluminium Multipanel corner extrusions. Even crappy ply has some charm once you sand and varnish it, and covering those awkward corners with brushed aluminium was the answer to all my woodworking woes.
 
 A few fag-packet sketches and some YouTubes later and I decided I needed an L section to join to the roof and sidewall of the van and some scribed end panels.
+
+![Building a cupboard](cupboard-making.jpg)
+
 I'd found some self-supporting hinges on eBay which would take the weight of a 12mm ply door, and I decided the least-labour-intensive-yet-practical configuration was two doors per unit.
 
 ![Overhead locker without doors](overhead-locker-without-doors.jpg)
