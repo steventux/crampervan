@@ -6,6 +6,7 @@ date: "2020-08-01"
 I think I'm roughly half-way complete on the build, so I thought I'd list tools and materials I've used, what worked well and things I learned when doing specific tasks.
 A few people I've chatted to about doing van conversions have asked what type of sealant or adhesives I've used, so maybe this will be useful to other people thinking of converting a van.
 
+![Haus Party](haus-party.jpg)
 
 ### Tools
 
@@ -28,6 +29,7 @@ A few people I've chatted to about doing van conversions have asked what type of
 
 I think it's a surprisingly simple set of tools to do a significant part of the conversion. A lot of the YouTubes I'd watched while researching the build involved very capable men standing in a beautiful workshop/garage next to their own table saw and sanding machine. Everything in this conversion so far has been done out in the street on a workbench on an uneven surface, as a result probably nothing is dead level or plumb, but in my experience you rarely park up on an dead flat camping spot and I'm not doing this as a woodwork project.
 
+![This van is held together with Stixall](stixall.jpg)
 
 ### Materials
 
