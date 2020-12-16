@@ -32,4 +32,8 @@ This questionable design meant I could use up more of the leftover cladding, and
 
 ![Bathroom cabinet with mirrors](storage-complete.jpg)
 
-A couple of things are left to do regarding plumbing, I need to make fixings for the water container below the sink and plumb the sink waste. I've decided a separate container for water is easier for now.
+A couple of things are left to do regarding plumbing, I need to make fixings for the water container below the sink and plumb the sink waste.
+
+I've decided a separate container for water is easier for now. I can fill this when I need to and add hot water when I need a shower. The problem we continually had with a fixed shared water tank was we'd forget to fill it when arriving somewhere. Driving around with a full tank is an option but it's also another thing to remember. I like the simplicity of filling them on site or wherever when I need to.
+
+There's also a tambour door to fit to finish up the room. The kits for these aren't that cheap so a shower curtain might be employed in the mean time.
