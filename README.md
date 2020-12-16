@@ -5,8 +5,12 @@
   </a>
 </p>
 <h1 align="center">
-  Gatsby's personal blog starter
+  Crampervan
 </h1>
+
+<p>
+  A blog site about building a DIY campervan during a pandemic.
+</p>
 
 <img alt="screesnhot" src="./screenshot.png">
 
