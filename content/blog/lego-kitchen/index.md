@@ -11,7 +11,7 @@ I took a fancy to the [pods made by EVO Motion Designs](https://www.evomotiondes
 
 This pod is only compatible with a specific hob/sink unit but this worked for me, giving me a sink on the left hand side and the burners on the right. Time to haemorage money.
 
-The pesky pandemic meant a long lead time, there were probably quicker solutions to be had but this unit really suited the build, so I paid up and waited. To be fair they were close to the estimated time to complete and deliver the unit, but sadly a week later than ideal which meant we had to go on our hollibobs with no cooker or sink. First World Problems.
+The pesky pandemic meant a long lead time, there were probably quicker solutions to be had but this unit really suited the build, so I paid up and waited. To be fair they were close to the estimated time to complete and deliver the unit, but sadly a week later than ideal which meant we had to manage without the cooker or sink in the van. Meh, these luxuries only serve to weaken us, as I like to tell the kids.
 
 When the unit arrived the first noticeable thing was that there was a lot of it and it was all flat on a pallet. Instructions were provided, as were all the necessary fixings and some handy general guidance on assembly. I can't fault how comprehensive the kit was, the only tip I'd give anyone assembling one of these is take your time, find a large dry, clean space, and have a small, powered screwdriver to assist as there are about a million screws to wind in.
 
