@@ -5,14 +5,14 @@ date: "2020-11-04"
 
 Part 2 of Kiosk du Merde.
 
-I'd had the time to research a bit on how to make a wet room, I was trying to find reasonably priced lightweight materials which would allow me to use the bathroom as a shower room. You can spend a lot of money building a campervan bathroom, cassette toilets with external access hatches and bespoke shower trays being at the pricey end of things.
+I'd now spent some time researching how to make a wet room, I wanted reasonably priced, lightweight materials which would allow me to use the bathroom as a shower room.
 
-I knew from the previous van that a cheaper toilet works fine, I prefer the shovel to the pan, most of the time it's used for a midnight pee, no need to go for the nuclear option. 
+I knew from the previous van that a cheaper toilet works fine, I prefer the shovel to the pan, most of the time it's used for a midnight pee. So I decided against a cassette toilet as the external access would be hard work in terms of positioning, cutting bodywork etc. I could have made a hatch into the bootspace but also the price difference of the cassette units compared to a 2 piece portapotti is a few hundred quid, I'd rather spend that on a decent quality tambour door.
 
 I was keen to be able to shower in the van, mountain biking being a messy business, I'll usually go for a campsite shower but again it's nice to have an option if you're parked up somewhere more remote.
 
-Water heaters are great, history suggests that for the price, space and complexity they aren't worth it. I've opted for a provide-your-own-hot-water system, a couple of kettles worth in a water butt will do. It's not gonna be a regular occurance.
-This still meant the shower room should be waterproof, even a strip wash can get a bit drippy so I bought a pretty cheap shower tray. A lesson learned here is to research which tray you'll go for and make a room with the dimensions that suit this. I didn't do that, so I had to improvise in places.
+Water heaters are another expense in this area, they are great, but history suggests that for the price, space and complexity they aren't worth it. I've opted for a provide-your-own-hot-water system, a couple of kettles worth in a water butt will do.
+I still wanted the toilet/shower room to be waterproof and easy to clean, even a strip wash can get a bit drippy so I bought a pretty cheap shower tray. A lesson learned here is to research which tray you'll go for and make a room with the dimensions that suit this. I didn't do that, so I had to improvise in places.
 
 ![Shower tray installed](shower-tray-installed.jpg)
 
@@ -32,8 +32,10 @@ This questionable design meant I could use up more of the leftover cladding, and
 
 ![Bathroom cabinet with mirrors](storage-complete.jpg)
 
-A couple of things are left to do regarding plumbing, I need to make fixings for the water container below the sink and plumb the sink waste.
+The plumbing is simple, a removeable water container which bolts to the wall, immersable pump and microswitch tap. I definitely didn't do things in the most logical order (like planning where the waste pipes would leave the van) but it's in now and fairly neat and tidy.
 
-I've decided a separate container for water is easier for now. I can fill this when I need to and add hot water when I need a shower. The problem we continually had with a fixed shared water tank was we'd forget to fill it when arriving somewhere. Driving around with a full tank is an option but it's also another thing to remember. I like the simplicity of filling them on site or wherever when I need to.
+![Bathroom plumbed in](bathroom-plumbing.jpg)
 
-There's also a tambour door to fit to finish up the room. The kits for these aren't that cheap so a shower curtain might be employed in the mean time.
+Apart from the bad planning, the worst parts of this job involve bathroom sealant. Despite my love of the problem-solving Stixall Adhesive, making bathroom sealant look presentable is beyond me, it's like trying to wipe your arse with a plastic bag. I've yet to run a presentable bead of sealant between the walls and shower tray. I'll have a tiday up and do it when the weather is warmer.
+
+After that it's fitting the tambour door.
