@@ -36,3 +36,7 @@ Thinking a bit harder about how the seats were to be bolted down to the frame ma
 - Rivnuts, these rivet-like captive nuts would have been much easier to insert into the frame where the seats bolt to them.
 - Conical hole cutters are magic.
 - One person under the van and one inside the van would have speeded this process up by 66%.
+
+#### Update: Here's a picture of the seats with cheap and slightly customised covers.
+
+![Seats with covers](seats-covered.jpg)
